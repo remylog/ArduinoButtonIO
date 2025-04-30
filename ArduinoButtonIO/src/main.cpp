@@ -6,12 +6,12 @@ const int buttonPin_3 = 4; // ボタン 3
 const int buttonPin_4 = 5; // ボタン 4
 const int buttonPin_5 = 6; // ボタン 5
 
-const int setPin_FET_1 = 7;  // FET 1
-const int setPin_FET_2 = 8;  // FET 2
-const int setPin_FET_3 = 9;  // FET 3
-const int setPin_FET_4 = 10; // FET 4
-const int setPin_FET_5 = 11; // FET 5
-const int setPin_FET_6 = 12; // FET 6
+const int setPin_FET_1 = 8;  // FET 1
+const int setPin_FET_2 = 9;  // FET 2
+const int setPin_FET_3 = 10;  // FET 3
+const int setPin_FET_4 = 11; // FET 4
+const int setPin_FET_5 = 12; // FET 5
+const int setPin_FET_6 = 7; // FET 6
 
 const int resetPin = 13; // リセットピン
 
